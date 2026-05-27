@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperppdate",
+        "uuid": 4352670,
+        "checksum": "4m780i"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
